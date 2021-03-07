@@ -1,0 +1,51 @@
+baseurl = "https://gagnenet.com/"
+copyright = "All rights reserved"
+#disqusshortname = "vjeantet"
+#languagecode = "en-US"
+paginate = 5
+pluralizelisttitles = false
+theme = "hugo-theme-casper"
+title = "Elijah Gagne"
+
+[[menu.main]]  # here are the buttons on the menu
+name = "Home" # Button will display as "Home"
+weight = 100 # the weight decides the position of the button (higher or lower)
+identifier = "home"
+pre = "<br />"
+url = "/"
+
+[[menu.main]]
+name = "Contact"
+weight = 0
+identifier = "contact" # this button will refer to a markdown file named "contact" in the content folder
+pre = "<br />"
+url = "/contact"
+
+[[menu.main]]
+name = "Blog"
+identifier = "blog" # this page will refer to a markdown file named "blog" in the content folder
+pre = "<br />"
+url = "/post"
+weight = 40
+
+[params]
+author = "Elijah Gagne"
+authorlocation = "Hartford, VT"
+authorwebsite = "https://gagnenet.com/"
+authorbio = "IT software and Security Engineer, Open source enthusiast."
+cover = "images/"
+description = "Whatever the mind of man can conceive and believe, it can achieve."
+githubName = "elijahgagne"
+hideHUGOSupport = false
+logo = "images/e.png"
+twitterName = "elijahwgagne"
+#googleAnalyticsUserID = "UA-79101-12"
+#customFooterPartial = "netlify.html"
+
+[permalinks]
+post = "/:slug/"
+
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"

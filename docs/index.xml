@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elijah Gagne</title>
+    <link>https://gagnenet.com/</link>
+    <description>Recent content on Elijah Gagne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>All rights reserved</copyright><atom:link href="https://gagnenet.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://gagnenet.com/about/</link>
+      <pubDate>Sat, 06 Mar 2021 22:15:59 -0500</pubDate>
+      
+      <guid>https://gagnenet.com/about/</guid>
+      <description>This is my about page </description>
+    </item>
+    
+  </channel>
+</rss>
