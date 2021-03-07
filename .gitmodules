@@ -1,0 +1,9 @@
+[submodule "docs/themes/novela"]
+	path = docs/themes/novela
+	url = https://github.com/forestryio/hugo-theme-novela.git
+[submodule "themes/novela"]
+	path = themes/novela
+	url = https://github.com/forestryio/hugo-theme-novela.git
+[submodule "themes/uBlogger"]
+	path = themes/uBlogger
+	url = https://github.com/upagge/uBlogger.git
