@@ -7,7 +7,7 @@ publishDir = "docs"
 
 [params]
   version = "1.3.X"
-  defaultTheme = "dark"
+  defaultTheme = "auto"
   dateFormat = "2006-01-02"
   images = ["headshot.jpeg"]
 

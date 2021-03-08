@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Elijah Gagne&#39;s site</title>
+    <link>https://gagnenet.com/post/</link>
+    <description>Recent content in Posts on Elijah Gagne&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Mar 2021 15:56:37 -0500</lastBuildDate><atom:link href="https://gagnenet.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://gagnenet.com/post/first-post/</link>
+      <pubDate>Sun, 07 Mar 2021 15:56:37 -0500</pubDate>
+      
+      <guid>https://gagnenet.com/post/first-post/</guid>
+      <description>Welcome to the first post of my new blog. I have tried to blog a few times in the past, but have always fizzled out. It seems that an important question to ask is, &amp;ldquo;why blog?&amp;rdquo; A few reasons that come to mind off the cuff for me are:
+ document things I learn to cement the concepts give myself a place to search and reference my notes share knowledge with others start a dialog with others to learn new things  That all seems nice, but how am I going to keep this going?</description>
+    </item>
+    
+  </channel>
+</rss>
