@@ -1,8 +1,11 @@
 ---
 title: "First Post"
 date: 2021-03-07T15:56:37-05:00
+publishDate: 2021-03-07T15:56:37-05:00
 draft: false
 ---
+
+# First Post
 
 Welcome to the first post of my new blog. I have tried to blog a few times in the past, but have always fizzled out. It seems that an important question to ask is, "why blog?" A few reasons that come to mind off the cuff for me are:
 

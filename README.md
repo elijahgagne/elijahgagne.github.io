@@ -13,7 +13,7 @@ git pull
 code .
 hugo new post/first-post.md
 
-hugo serve --disableFastRender -D
+hugo serve -D
 ```
 
 http://localhost:1313/
